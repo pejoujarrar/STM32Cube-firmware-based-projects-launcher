@@ -1,0 +1,1 @@
+# STM32Cube-firmware-based-projects-launcher
