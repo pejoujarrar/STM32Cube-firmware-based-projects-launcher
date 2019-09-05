@@ -1,0 +1,16 @@
+# Compiler output
+*.o
+*.a
+*.bin
+*.elf
+*.hex
+*.lst
+*.map
+
+# Makefile dependencies
+dep/
+
+# Object directories
+obj/
+
+
